@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"extension-profiles.activeProfiles": [
+			"Always On",
+			"Lua"
+		]
+	}
+}
