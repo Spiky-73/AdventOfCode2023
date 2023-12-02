@@ -7,4 +7,4 @@ for line in io.lines() do
     sum = sum + fst * 10 + lst
 end
 
-print("Part 2: " .. sum)
+print(sum)
