@@ -5,7 +5,6 @@ for line in io.lines() do table.insert(lines, line) end
 ---@type table<integer, integer>
 local gears = {}
 
----comment
 ---@param p integer
 ---@param i integer
 ---@param j integer
